@@ -1,0 +1,26 @@
+Blockchain is a secure database shared across a network of participants, where up-to-date information is available to all participants at the same time.Blockchain is a technology that enables the secure sharing of information. Data, obviously, is stored in a database.A blockchain is a type of distributed database or ledger—one of today’s top tech trends—which means the power to update a blockchain is distributed between the nodes, or participants, of a public or private computer network. This is known as distributed ledger technology, or DLT. Nodes are incentivized with digital tokens or currency to make updates to blockchains.Blockchain allows for the permanent, immutable, and transparent recording of data and transactions. This, in turn, makes it possible to exchange anything that has value, whether that is a physical item or something less tangible.
+
+Blockchain works via a multistep process, which in simple terms happens as follows:
+An authorized participant inputs a transaction, which must be authenticated by the technology.
+That action creates a block that represents that specific transaction or data.
+The block is sent to every computer node in the network.
+Authorized nodes verify the transaction and add the block to the existing blockchain. (Nodes in public blockchain networks are referred to as miners; they're typically paid for this task -- often in a process called Proof of Work, or PoW -- usually in the form of cryptocurrency.)
+The update is distributed across the network, which finalizes the transaction.
+
+Blockchain technology produces a structure of data with inherent security qualities. It's based on principles of cryptography, decentralization and consensus, which ensure trust in transactions. In most blockchains or distributed ledger technologies (DLT), the data is structured into blocks and each block contains a transaction or bundle of transactions. Each new block connects to all the blocks before it in a cryptographic chain in such a way that it's nearly impossible to tamper with. All transactions within the blocks are validated and agreed upon by a consensus mechanism, ensuring that each transaction is true and correct.
+Blockchain technology enables decentralization through the participation of members across a distributed network. There is no single point of failure and a single user cannot change the record of transactions. However, blockchain technologies differ in some critical security aspects.
+
+Bockchain can be used in various fields.
+By integrating blockchain into banks, consumers might see their transactions processed in minutes or seconds—the time it takes to add a block to the blockchain, regardless of holidays or the time of day or week. With blockchain, banks also have the opportunity to exchange funds between institutions more quickly and securely. Given the size of the sums involved, even the few days the money is in transit can carry significant costs and risks for banks. 
+Healthcare providers can leverage blockchain to store their patients’ medical records securely. When a medical record is generated and signed, it can be written into the blockchain, which provides patients with the proof and confidence that the record cannot be changed.
+A smart contract is a computer code that can be built into the blockchain to facilitate a contract agreement. Smart contracts operate under a set of conditions to which users agree. When those conditions are met, the terms of the agreement are automatically carried out. 
+blockchain could facilitate a modern voting system. Voting with blockchain carries the potential ts eliminate election fraud and boost voter turnout.
+
+Benefits of blockchain -
+Transactions on the blockchain network are approved by thousands of computers and devices. This removes almost all people from the verification process, resulting in less human error and an accurate record of information. 
+Typically, consumers pay a bank to verify a transaction or a notary to sign a document. Blockchain eliminates the need for third-party verification—and, with it, their associated costs.
+On some blockchains, transactions can be completed in minutes and considered secure after just a few. 
+Drawbacks of blockchain -
+Although blockchain can save users money on transaction fees, the technology is far from free. For example, the Bitcoin network's proof-of-work system to validate transactions consumes vast amounts of computational power. In the real world, the energy consumed by the millions of devices on the Bitcoin network is much more than the exceptition.
+Bitcoin is a perfect case study for the possible inefficiencies of blockchain. Bitcoin’s PoW system takes about 10 minutes to add a new block to the blockchain. At that rate, it’s estimated that the blockchain network can only manage about three transactions per second (TPS).
+While confidentiality on the blockchain network protects users from hacks and preserves privacy, it also allows for illegal trading and activity on the blockchain network.
